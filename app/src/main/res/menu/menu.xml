@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemBiblioteca"
+        android:enabled="true"
+        android:title="@string/textBiblioteca"
+        android:icon="@drawable/living_room_books_group"
+        />
+    <item
+        android:id="@+id/itemInicio"
+        android:enabled="true"
+        android:title="@string/textInicio"
+        android:icon="@drawable/home"
+        />
+
+    <item
+        android:id="@+id/itemExplorar"
+        android:enabled="true"
+        android:title="@string/textExplorarr"
+        android:icon="@drawable/magnifying_glass"
+        />
+
+</menu>
